@@ -1,6 +1,6 @@
 <div align = "center">
   
-# Comparative Analysis of Software Alternatives 
+# Comparative Analysis of Software Alternatives Using AlternativeTo Data
   
 </div>
 
