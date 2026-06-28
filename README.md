@@ -13,6 +13,13 @@ The project helps developers, companies, researchers, and end users compare soft
 ## 🏗️ Architecture Overview
 
 ## 🗃️ Dataset
+The dataset was collected from the AlternativeTo website through web scraping and contains detailed information about software applications.   
+It includes attributes such as application name,Cost,app_type,supported_languages,origin ... etc
+- **Source:** AlternativeTo Website
+- **Collection Method:** Web Scraping
+- **Format:** CSV
+- **Records:** XXXX software applications
+- **Features:** 8 columns
 
 ## 🛠️ Technology Stack
 
