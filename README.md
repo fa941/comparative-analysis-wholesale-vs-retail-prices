@@ -26,7 +26,7 @@ It includes attributes such as application name,Cost,app_type,supported_language
 |:---------|:-----------|
 | Programming Language | Python |
 | Development Environment | Jupyter Notebook |
-| Data Collection | Playwright | 
+| Data Collection | Playwright, requests, python-dotenv| 
 | Data Manipulation | Pandas, NumPy |
 | Data Visualization | Matplotlib, Seaborn , Plotly |
 | Data Storage | SQL Server |
